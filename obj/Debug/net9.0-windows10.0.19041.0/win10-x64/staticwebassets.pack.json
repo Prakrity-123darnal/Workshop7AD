@@ -17,6 +17,26 @@
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Workshop7\\MauiApp1\\wwwroot\\images\\college_photo.png",
+      "PackagePath": "staticwebassets\\images\\college_photo.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Workshop7\\MauiApp1\\wwwroot\\images\\monkey1.jpeg",
+      "PackagePath": "staticwebassets\\images\\monkey1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Workshop7\\MauiApp1\\wwwroot\\images\\monkey2.jpeg",
+      "PackagePath": "staticwebassets\\images\\monkey2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Workshop7\\MauiApp1\\wwwroot\\images\\monkey3.jpeg",
+      "PackagePath": "staticwebassets\\images\\monkey3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Workshop7\\MauiApp1\\wwwroot\\images\\student.jpeg",
+      "PackagePath": "staticwebassets\\images\\student.jpeg"
+    },
+    {
       "Id": "C:\\Users\\HP\\OneDrive\\Desktop\\Workshop7\\MauiApp1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

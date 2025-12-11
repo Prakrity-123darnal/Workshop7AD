@@ -2,6 +2,11 @@ wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
 wwwroot\index.html
+wwwroot\images\student.jpeg
+wwwroot\images\college_photo.png
+wwwroot\images\monkey1.jpeg
+wwwroot\images\monkey2.jpeg
+wwwroot\images\monkey3.jpeg
 C:\Users\HP\OneDrive\Desktop\Workshop7\MauiApp1\wwwroot\css\app.css
 C:\Users\HP\OneDrive\Desktop\Workshop7\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css
 C:\Users\HP\OneDrive\Desktop\Workshop7\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css.map
